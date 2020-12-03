@@ -7,7 +7,7 @@ Currently working at CWI Software, on the Via Varejo project.
 
 <br>
 
-### My Released Apps 📱⌚️
+### Released Apps 📱⌚️
 🩺 [Graphi: Pediatrician tool](https://apps.apple.com/br/app/graphi/id1463434493)<br>
 🦜 [Pierrot: Learn animal names](https://apps.apple.com/br/app/pierrot-learn-animal-names/id1519122608)<br>
 🦖 [Sinq: Your fitness companion](https://apps.apple.com/br/app/sinq-your-fitness-companion/id1523343191?l=en)<br>
@@ -16,7 +16,7 @@ Currently working at CWI Software, on the Via Varejo project.
 
 <br>
 
-### My Achievements 🏆🗞
+### Achievements 🏆🗞
 🏆 Apple WWDC 2020 Swift Student Challenge Winner | [The Bacteria Adventure v2](https://github.com/rodrigowoulddo/WWDC-2020-Playground) <br>
 🏆 Apple WWDC 2019 Scholarship Winner | [The Bacteria Adventure](https://github.com/rodrigowoulddo/WWDC-2019-Playground) <br>
 🏅 Claro Campus Mobile Finalist | [Graphi](https://poatek.com/2020/03/18/my-experience-at-campus-mobile-2020/) <br>
