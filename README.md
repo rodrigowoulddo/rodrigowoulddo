@@ -23,10 +23,3 @@ Currently working at CWI Software, on the Via Varejo project.
 📰 Blog Post on MacMagazine | [Sinq](https://macmagazine.uol.com.br/post/2020/10/07/crie-metas-e-ganhe-recompensas-se-exercitando-com-o-sinq/) <br>
 📰 Blog Post on iPlace | [Sinq](https://somos.lojaiplace.com.br/2020/11/28/exercicios-fisicos-supere-metas-e-ganhe-recompensas-no-sinq/) <br>
 🗞 Featured on the University Website | [UFCSPA](https://www.ufcspa.edu.br/noticias/noticias-para-docentes-e-taes/34-meu-perfil/imprensa/noticias/1049-estudante-da-ufcspa-e-premiado-em-concurso-da-apple)
-
-<br>
-
-### Get in touch 🔗📩
-- [LinkedIn](https://www.linkedin.com/in/rodrigofgiglio/)
-- [Instagram](https://www.instagram.com/rodrigowoulddo/)
-- [Twitter](https://twitter.com/rodrigowoulddo)
