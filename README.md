@@ -1,5 +1,5 @@
 ### About me 
-Hi there 👋🏽
+Hi there 👋🏽🇧🇷
 
 I'm an iOS Engineer and specialist on mobile health applications. As a Biomedical Informatics student, I'm enthusiastic about how technology and health can come together to make the world a better place.
 
