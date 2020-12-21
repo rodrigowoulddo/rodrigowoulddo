@@ -1,11 +1,10 @@
 ### About me 
-Hi there 👋🏽
+Hi there 👋🏽🇧🇷
 
 I'm an iOS Engineer and specialist on mobile health applications. As a Biomedical Informatics student, I'm enthusiastic about how technology and health can come together to make the world a better place.
 
 Currently working at CWI Software, on the Via Varejo project.
 
-<br>
 
 ### Released Apps 📱⌚️
 
@@ -24,3 +23,6 @@ Currently working at CWI Software, on the Via Varejo project.
 📰 Blog Post on MacMagazine | [Sinq](https://macmagazine.uol.com.br/post/2020/10/07/crie-metas-e-ganhe-recompensas-se-exercitando-com-o-sinq/) <br>
 📰 Blog Post on iPlace | [Sinq](https://somos.lojaiplace.com.br/2020/11/28/exercicios-fisicos-supere-metas-e-ganhe-recompensas-no-sinq/) <br>
 🗞 Featured on the University Website | [UFCSPA](https://www.ufcspa.edu.br/noticias/noticias-para-docentes-e-taes/34-meu-perfil/imprensa/noticias/1049-estudante-da-ufcspa-e-premiado-em-concurso-da-apple)
+
+### GitHub Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigowoulddo)]()
