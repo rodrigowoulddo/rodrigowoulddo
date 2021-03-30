@@ -1,18 +1,21 @@
 ### About me 
-Hi there 👋🏽🇧🇷
+Hi there 👋🏽 🇧🇷
 
 I'm an iOS Engineer and specialist on mobile health applications. As a Biomedical Informatics student, I'm enthusiastic about how technology and health can come together to make the world a better place.
 
-Currently working at CWI Software, on the Via Varejo project.
+Currently working at [Nex T Engineering](https://www.nextengineering.pt/), on the [Farfetch](www.farfetch.com) project.
 
-
-### Released Apps 📱⌚️
+### Apps I've built 📱⌚️
 
 <img src="./App Icons/graphi.png" alt="Graphi" width="12"/> [Graphi: Pediatrician tool](https://apps.apple.com/br/app/graphi/id1463434493) </br>
 <img src="./App Icons/pierrot.png" alt="Pierrot" width="12"/> [Pierrot: Learn animal names](https://apps.apple.com/br/app/pierrot-learn-animal-names/id1519122608)<br>
 <img src="./App Icons/sinq.png" alt="Sinq" width="12"/> [Sinq: Your fitness companion](https://apps.apple.com/br/app/sinq-your-fitness-companion/id1523343191?l=en)<br>
 <img src="./App Icons/lootr.png" alt="Lootr" width="12"/> [Lootr: World of Warcraft guild gelper](https://apps.apple.com/us/app/lootr/id1484236646)<br>
 <img src="./App Icons/shapes.png" alt="Spinning Shapes" width="12"/> [Spinning Shapes: Game based on shapes and colors](https://apps.apple.com/br/app/spinning-shapes/id1475284364)
+
+### Apps I've also worked on 🔧👨🏽‍💻
+<img src="./App Icons/farfetch.png" alt="Farfetch" width="12"/> [Farfetch](https://apps.apple.com/us/app/farfetch-designer-clothing/id906698760) </br>
+<img src="./App Icons/casas_bahia.png" alt="Farfetch" width="12"/> [Casas Bahia](https://apps.apple.com/br/app/casas-bahia-ofertas-online/id430647496) </br>
 
 <br>
 
