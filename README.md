@@ -1,7 +1,7 @@
 ### About me 
 Hi there 👋🏽 🇧🇷
 
-I'm an iOS Engineer and specialist on mobile health applications. As a Biomedical Informatics student, I'm enthusiastic about how technology and health can come together to make the world a better place.
+I'm an iOS Engineer and specialist on mobile health applications. As a Bioengineer, I'm enthusiastic about how technology and health can come together to make the world a better place.
 
 Currently working @ [Nex T Engineering](https://www.nextengineering.pt/), on the [Farfetch](www.farfetch.com) project.
 
