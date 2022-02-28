@@ -20,7 +20,7 @@ Currently working @ [Nex T Engineering](https://www.nextengineering.pt/), on the
 <br>
 
 ### Achievements 🏆🗞
-🏆 Apple WWDC 2021 Swift Student Challenge Winner 
+🏆 Apple WWDC 2021 Swift Student Challenge Winner <br>
 🏆 Apple WWDC 2020 Swift Student Challenge Winner | [The Bacteria Adventure v2](https://github.com/rodrigowoulddo/WWDC-2020-Playground) <br>
 🏆 Apple WWDC 2019 Scholarship Winner | [The Bacteria Adventure](https://github.com/rodrigowoulddo/WWDC-2019-Playground) <br>
 🏅 Claro Campus Mobile Finalist | [Graphi](https://poatek.com/2020/03/18/my-experience-at-campus-mobile-2020/) <br>
