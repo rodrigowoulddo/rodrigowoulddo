@@ -3,7 +3,7 @@ Hi there 👋🏽 🇧🇷
 
 I'm an iOS Engineer and mobile health applications specialist. As a Bioengineer, I'm enthusiastic about how technology and health can come together to make the world a better place.
 
-Currently working @ [Nex T Engineering](https://www.nextengineering.pt/), on the [Farfetch](www.farfetch.com) project.
+Currently working @ [Farfetch](www.farfetch.com).
 
 ### Apps I've built 📱⌚️
 
