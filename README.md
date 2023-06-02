@@ -24,4 +24,4 @@ Currently working @ [Farfetch](www.farfetch.com).
 🏅 Claro Campus Mobile Finalist | [Graphi](https://poatek.com/2020/03/18/my-experience-at-campus-mobile-2020/) <br>
 📰 Blog Post on MacMagazine | [Sinq](https://macmagazine.uol.com.br/post/2020/10/07/crie-metas-e-ganhe-recompensas-se-exercitando-com-o-sinq/) <br>
 📰 Blog Post on iPlace | [Sinq](https://somos.lojaiplace.com.br/2020/11/28/exercicios-fisicos-supere-metas-e-ganhe-recompensas-no-sinq/) <br>
-🗞 Featured on the University Website | [UFCSPA](https://www.ufcspa.edu.br/noticias/noticias-para-docentes-e-taes/34-meu-perfil/imprensa/noticias/1049-estudante-da-ufcspa-e-premiado-em-concurso-da-apple)
+🗞 Featured on the Apple Entrepeneur Camp program | [Apple](https://nr.apple.com/d2I7A971m5)
