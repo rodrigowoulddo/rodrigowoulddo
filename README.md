@@ -17,8 +17,6 @@ Currently working @ [Farfetch](www.farfetch.com).
 <img src="./App Icons/farfetch.png" alt="Farfetch" width="12"/> [Farfetch](https://apps.apple.com/us/app/farfetch-designer-clothing/id906698760) </br>
 <img src="./App Icons/casas_bahia.png" alt="Farfetch" width="12"/> [Casas Bahia](https://apps.apple.com/br/app/casas-bahia-ofertas-online/id430647496) </br>
 
-<br>
-
 ### Achievements 🏆🗞
 🏆 Apple WWDC 2021 Swift Student Challenge Winner <br>
 🏆 Apple WWDC 2020 Swift Student Challenge Winner | [The Bacteria Adventure v2](https://github.com/rodrigowoulddo/WWDC-2020-Playground) <br>
@@ -27,6 +25,3 @@ Currently working @ [Farfetch](www.farfetch.com).
 📰 Blog Post on MacMagazine | [Sinq](https://macmagazine.uol.com.br/post/2020/10/07/crie-metas-e-ganhe-recompensas-se-exercitando-com-o-sinq/) <br>
 📰 Blog Post on iPlace | [Sinq](https://somos.lojaiplace.com.br/2020/11/28/exercicios-fisicos-supere-metas-e-ganhe-recompensas-no-sinq/) <br>
 🗞 Featured on the University Website | [UFCSPA](https://www.ufcspa.edu.br/noticias/noticias-para-docentes-e-taes/34-meu-perfil/imprensa/noticias/1049-estudante-da-ufcspa-e-premiado-em-concurso-da-apple)
-
-### GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigowoulddo)]()
