@@ -3,7 +3,7 @@ Hi there 👋🏽 🇧🇷
 
 I'm an iOS Engineer and mobile health applications specialist. As a Bioengineer, I'm enthusiastic about how technology and health can come together to make the world a better place.
 
-Currently working @ [Farfetch](www.farfetch.com).
+Currently working @ [Kovalee]([www.farfetch.com](https://www.kovalee.app)).
 
 ### Apps I've worked on 📱⌚️
 
